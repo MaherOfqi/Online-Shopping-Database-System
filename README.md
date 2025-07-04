@@ -30,16 +30,5 @@ This project was developed as part of **CS370: Database Systems** at Al-Imam Moh
   - Faris Alzuwayr
   - Yousef Hamad Alkhraiji
 
-## 📂 Repository Structure
-```
-/Final_Project_CS370_Cleaned.pdf
-/sql/
-    - table_creation.sql
-    - queries.sql
-/diagrams/
-    - ER_diagram.drawio
-README.md
-```
-
 ## 📜 License
 This project is for educational and portfolio purposes only.
