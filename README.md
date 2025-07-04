@@ -23,13 +23,14 @@ This repository highlights my personal contributions to the team project:
 ## 📌 Credits
 This project was developed as part of **CS370: Database Systems** at Al-Imam Mohammad Ibn Saud Islamic University.  
 
-- **Instructor:**
-  - Dr. Zeyad Alshaikh
- **Team Members:**
-  - Maher Mohammed Ofqi (This repository)
-  - Ziad Alhajji
-  - Faris Alzuwayr
-  - Yousef Hamad Alkhraiji
+**Instructor:**
+- Dr. Zeyad Alshaikh
+
+**Team Members:**
+- Maher Ofqi
+- Ziad Alhajji
+- Faris Alzuwayr
+- Yousef Alkhraiji
 
 ## 📜 License
 This project is for educational and portfolio purposes only.
