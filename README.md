@@ -27,10 +27,10 @@ This project was developed as part of **CS370: Database Systems** at Al-Imam Moh
 - Dr. Zeyad Alshaikh
 
 **Team Members:**
-- Maher Ofqi
+- Maher Mohammed Ofqi
 - Ziad Alhajji
 - Faris Alzuwayr
-- Yousef Alkhraiji
+- Yousef Hamad Alkhraiji
 
 ## 📜 License
 This project is for educational and portfolio purposes only.
