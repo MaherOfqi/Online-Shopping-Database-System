@@ -25,7 +25,7 @@ This project was developed as part of **CS370: Database Systems** at Al-Imam Moh
 
 - **Instructor:**
 - Dr. Zeyad Alshaikh    
-- **Team Members:**
+ **Team Members:**
   - Maher Mohammed Ofqi (This repository)
   - Ziad Alhajji
   - Faris Alzuwayr
